@@ -1,0 +1,24 @@
+h1{
+    color: darkmagenta;
+}
+body{
+    background-color:aquamarine;
+    padding-left: 40px;
+}
+button{
+ width: 200px;
+ height: 30px;
+ border-radius: 30px;
+background-color: magenta;
+
+
+}
+#todo{
+    margin-top: 5%;
+    color: aquamarine;
+}
+.list-group{
+margin-top: 5px;
+width: 400px;
+border: black 1px solid;
+}
